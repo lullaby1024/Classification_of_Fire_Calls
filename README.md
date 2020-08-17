@@ -3,7 +3,7 @@
 - Goal: to predict two of the most common Call_Type_Group given information from the rest of the table.
   - Binary classification: Potentially Life-Threatening/Non Life-threatening
 
-# Outline
+## Outline
 The following are the steps through which this project has taken. Refer to the .sql file for codes.
 - Loading data
 - Data Preparation
